@@ -6,3 +6,6 @@ It is a .py file that contains all the HackerRank exercises from Problem 1 and P
 
 ## submissions.pdf
 It is a .pdf file that contains all the pages retrieved from "https://www.hackerrank.com/submissions/all". It contains the record of all my submissions including the wrong ones. As I have mentioned above, the problems are ordered from latest submissions to the earliest one.
+
+## problems seperated (folder)
+In this folder you can find the .py and the .pdf files seperated for problems 1 and 2. The homework instructions were not precise on this aspect and, thus, I have uploaded this folder. The folder follows the same logic explained above.
